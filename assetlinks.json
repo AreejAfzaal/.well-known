@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.areej.cv.base",
+    "sha256_cert_fingerprints":
+    ["41:07:9A:6D:57:1E:5A:A6:59:4C:8F:62:21:A8:9F:0E:51:8D:31:2A:6C:D2:99:11:92:25:73:BD:D1:6E:55:A1"]
+  }
+}]
